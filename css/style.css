@@ -2426,7 +2426,7 @@ ul#top_menu li a.login:before {
 }
 .hero_single.version_1 {
   height: 620px;
-  background: #faf3cc url(../img/hero_5.svg) center top no-repeat;
+  background: #faf3cc url(../img/slides/2.png) center top no-repeat;
 }
 @media (max-width: 991px) {
   .hero_single.version_1 {
@@ -2447,7 +2447,7 @@ ul#top_menu li a.login:before {
 }
 .hero_single.version_2 {
   height: 620px;
-  background: #faf3cc url(../img/home_section_2.jpg) center center no-repeat;
+  background: #faf3cc url(../img/slides/shop-banner.png) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3150,7 +3150,7 @@ header.black_nav .dropdown.user a:hover {
 }
 .dropdown.user .dropdown-menu ul li a:hover {
   background-color: #f9f9f9;
-  color: #e54750 !important;
+  color: #68B436 !important;
   opacity: 1;
 }
 
@@ -3189,7 +3189,7 @@ header.black_nav .dropdown.user a:hover {
 .main_title span em {
   width: 60px;
   height: 2px;
-  background-color: #e54750;
+  background-color: #68B436;
   display: block;
 }
 @media (max-width: 767px) {
@@ -4422,7 +4422,7 @@ footer .contacts ul li i {
   position: absolute;
   top: 0;
   left: 0;
-  color: #e54750;
+  color: #68B436;
   line-height: 1;
 }
 footer h3 {
