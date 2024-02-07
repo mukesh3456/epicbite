@@ -35,6 +35,14 @@ Author URI: http://themeforest.net/user/Ansonika/
 /*============================================================================================*/
 /* 0. ICONS */
 /*============================================================================================*/
+.whatsapp-icon {
+  position: fixed;
+  left: 50px;
+  bottom: 40px;
+  width: 70px;
+  height: 70px;
+  z-index: 999;
+}
 @font-face {
   font-family: Glyphter;
   src: url(icon_fonts/font/Glyphter.eot);
