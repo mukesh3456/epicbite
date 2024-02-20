@@ -2438,7 +2438,7 @@ ul#top_menu li a.login:before {
 }
 @media (max-width: 991px) {
   .hero_single.version_1 {
-    background: #faf3cc url(../img/hero_5_mobile.svg) center top no-repeat;
+    background: #faf3cc url(../img/slides/2.png) center top no-repeat;
   }
 }
 @media (max-width: 991px) {
